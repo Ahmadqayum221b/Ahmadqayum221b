@@ -67,18 +67,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmadqayum221b&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadqayum221b&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -89,13 +77,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmadqayum221b&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ahmadqayum221b/Ahmadqayum221b/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
